@@ -1,0 +1,10 @@
+title: EMMANUEL NYARKO | Data Portfolio"
+description: "Projects and skills in data analysis, visualization, and machine learning."
+author: EMMANUEL NYARKO
+email: nyarkoemmanuel@gmail.com
+url: "https://EmmanuelNyarko.github.io"
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
