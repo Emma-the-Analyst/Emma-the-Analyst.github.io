@@ -4,7 +4,7 @@ title: "Welcome"
 ---
 
 <p align="center">
-  <img src="assets/profile.jpeg" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
+  <img src="assets/profile.jpeg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Profile Picture"/>
 </p>
 
 # 👋 Hi, I'm EMMANUEL NYARKO
