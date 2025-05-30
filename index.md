@@ -5,7 +5,7 @@ title: Home
 
 <!-- Profile Section -->
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 40px;">
-  <img src="assets/profile.jpg" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Profile Picture"/>
+  <img src="assets/profile.jpeg" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Profile Picture"/>
   
   <div>
     <h1 style="margin-bottom: 0;">Hi, I'm <strong style="color: #007acc;">[Your Name]</strong></h1>
