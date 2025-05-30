@@ -3,7 +3,7 @@
   <img src="profile.jpg" width="140" height="140" style="border-radius: 50%;" alt="Profile Picture">
 </p>
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm [EMMANUEL NYARKO] 👋</h1>
 <p align="center">
   <b>Data Analyst | Machine Learning Enthusiast | Storyteller with Data</b>
 </p>
