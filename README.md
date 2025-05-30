@@ -27,6 +27,6 @@ Each project includes:
 
 ## 🔗 Connect With Me
 
-- 📧 Nyarkoemmanuel@gmail.com
+- 📧 [Email](Nyarkoemmanuel@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🖥️ [GitHub](https://github.com/yourusername)
